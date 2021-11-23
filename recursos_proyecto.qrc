@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logo">
+    <file alias="equipo">Imagenes/imagen 5.jpg</file>
+  </qresource>
+  <qresource prefix="uat">
+    <file alias="fians">Imagenes/uat.png</file>
+  </qresource>
+  <qresource prefix="imagenes">
+    <file alias="diez">Imagenes/imagen 11.jpg</file>
+    <file alias="nueve">Imagenes/imagen 10.jpg</file>
+    <file alias="ocho">Imagenes/imagen 9.jpg</file>
+    <file alias="siete">Imagenes/imagen 8.jpg</file>
+    <file alias="seis">Imagenes/imagen 7.jpg</file>
+    <file alias="cinco">Imagenes/imagen 6.jpg</file>
+    <file alias="cuatro">Imagenes/imagen 4.jpg</file>
+    <file alias="tres">Imagenes/imagen 3.jpg</file>
+    <file alias="dos">Imagenes/imagen 2.jpg</file>
+    <file alias="uno">Imagenes/imagen 1.jpg</file>
+  </qresource>
+</RCC>
